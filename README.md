@@ -6,7 +6,7 @@
 
 <h1>Repositories</h1>
 
-![JINUK0327's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINUK0327&hide=contribs&show_icons=true&theme=tokyonight&)
+![JINUK0327's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINUK0327&hide=contribs&show_icons=true&theme=tokyonight&locale=kr,en)
 
 <h1>Languages & IDE</h1>
 
