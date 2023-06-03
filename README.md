@@ -10,6 +10,8 @@
 
 <h1>Languages & IDE</h1>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINUK0327&langs_count=5&layout=donut&hide_border=true&size_weight=1&count_weight=1&theme=tokyonight)
+
 <table>
     <thead>
         <tr>
@@ -37,4 +39,4 @@
           </td>
         </tr>
     </tbody>
-</table> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINUK0327&langs_count=5&layout=donut&hide_border=true&size_weight=1&count_weight=1&theme=tokyonight)
+</table> 
