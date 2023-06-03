@@ -26,8 +26,6 @@
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="20px" align="center"> C</li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="20px" align="center"> C++</li>
                <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20px" align="center"> Python</li>
-               <li>SQL</li>
-               <li><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20px" align="center"> node.js</li>
              </ul> 
            </td>
           <td>
