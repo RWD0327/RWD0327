@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=250&section=header&text=JINUK0327&fontSize=80&fontAlignY=40)
-<h1 align="center">진욱0327</h1>
+<h1 align="center">RWD0327</h1>
 <p align="center">
   <b>Developer & student</b>
 </p>
