@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0,2,2,5,30&height=250&section=header&text=RWD0327&fontColor=000000&fontSize=80&fontAlignY=40&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0,2,2,5,30&height=250&section=header&text=RWD0327&fontColor=ffffff&fontSize=80&fontAlignY=40&animation=twinkling)
   
 </div>
   <h1>Repositories</h1>
