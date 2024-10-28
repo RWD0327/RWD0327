@@ -1,13 +1,11 @@
 <div>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0,2,2,5,30&height=250&section=header&text=RWD0327&fontColor=ffffff&fontSize=80&fontAlignY=40&animation=twinkling)
-</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1500&color=1872F7&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;My+name+is+JINUK;I'm+a+student+%26+developer" alt="Typing SVG" />
-</h1>
-
-<div>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1500&color=1872F7&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;My+name+is+JINUK;I'm+a+student+%26+developer" alt="Typing SVG" />
+  </p>
+  
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=c,py,html,css,js,wasm,dotnet,md&perline=5">
