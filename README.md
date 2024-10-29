@@ -8,7 +8,7 @@
   
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <p align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=c,py,html,css,js,wasm,dotnet,md&perline=5">
+    <img display="flex" src="https://skillicons.dev/icons?i=c,py,html,css,js,wasm,dotnet,md&perline=5">
   </p>
   <h2 align="center">Cloud</h2>
   <p align="center">
