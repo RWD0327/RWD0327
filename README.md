@@ -8,26 +8,26 @@
   
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,py,html,css,js,wasm,dotnet,md&perline=5">
+    <img align="center" src="https://skillicons.dev/icons?i=c,py,html,css,js,wasm,dotnet,md&perline=5">
   </p>
-  <h2>Cloud</h2>
+  <h2 align="center">Cloud</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=azure,github,git,docker">
+    <img align="center" src="https://skillicons.dev/icons?i=azure,github,git,docker">
   </p>
-  <h2>Operating System</h2>
+  <h2 align="center">Operating System</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=arch,kali,windows">
+    <img align="center" src="https://skillicons.dev/icons?i=arch,kali,windows">
   <p>
-  <h2>IDE</h2>
+  <h2 align="center">IDE</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio">
+    <img align="center" src="https://skillicons.dev/icons?i=vscode,visualstudio">
   </p>
 </div>
 
 <div>
   <h2 align="center">⚡ Stats ⚡</h2>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rwd0327&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rwd0327&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img align="center" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rwd0327&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img align="center" width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rwd0327&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rwd0327&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
