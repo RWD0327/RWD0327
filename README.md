@@ -1,41 +1,61 @@
-<div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0,2,2,5,30&height=250&section=header&text=RWD0327&fontColor=ffffff&fontSize=80&fontAlignY=40&animation=twinkling)
+###
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1500&color=1872F7&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;My+name+is+JINUK;I'm+a+student+%26+developer" alt="Typing SVG" />
-  </p>
-  
-  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-  <p align="center">
-    <img display="flex" src="https://skillicons.dev/icons?i=c,py,html,css,js,wasm,dotnet,md&perline=5">
-  </p>
-  <h2 align="center">Cloud</h2>
-  <p align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=azure,github,git,docker">
-  </p>
-  <h2 align="center">Operating System</h2>
-  <p align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=arch,kali,windows">
-  <p>
-  <h2 align="center">IDE</h2>
-  <p align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=vscode,visualstudio">
-  </p>
-</div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-  <img align="center" width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rwd0327&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img align="center" width=370 src="https://github-readme-stats-salesp07.vercel.app/api?username=rwd0327&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rwd0327&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-<br/><br/>
+###
 
-<hr/>
+<h2 align="left">About me</h2>
 
-<br/>
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rwd0327/rwd0327/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rwd0327/rwd0327/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rwd0327/rwd0327/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rwd0327&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rwd0327&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rwd0327&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
